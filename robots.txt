@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oyuvaecahp.xhezairi.com/sitemap.xml
